@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Cypress outputs
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/results/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS/basura
+.DS_Store
+Thumbs.db
